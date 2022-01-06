@@ -1,1 +1,1 @@
-literally just copied from the starter template for next.js
+just copied from the starter template for next.js
