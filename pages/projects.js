@@ -31,7 +31,7 @@ export default function Home() {
           </a>
 
           <a href="https://csjobs.carter.red" className="card">
-            <h3>CS &rarr;</h3>
+            <h3>CS Jobs &rarr;</h3>
             <p>A data aggregator for Computer Science jobs, made with Flask and SQL - originally hosted at csjobs.net but now in an archived state on csjobs.carter.red.</p>
           </a>
         </div>
